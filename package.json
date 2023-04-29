@@ -1,5 +1,5 @@
 {
-	"mary odedeyi", : "fcc-learn-npm-package-json",
+	"author": "Mary Odedeyi",: "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
